@@ -11,5 +11,6 @@ public class Main {
         // Hello World
         System.out.println("Division: " + cacl1.divide(10, 5));
         System.out.println("Hello");
+        System.out.println("Hello2");
     }
 }
